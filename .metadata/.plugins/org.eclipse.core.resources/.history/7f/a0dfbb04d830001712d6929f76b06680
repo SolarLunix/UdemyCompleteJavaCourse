@@ -14,16 +14,8 @@ public class Main {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		remInts();
-	}
-	
-	private static void remInts(){
-		int smallestInt = -2147483648;
+		int smallestInt = -214783649;
 		System.out.println("The smallest int you can have is:" + smallestInt);
-		
-		int largestInt = 2147483647;
-		System.out.println("The largest int you can have is:" + largestInt);
+
 	}
-	
-	
 }
