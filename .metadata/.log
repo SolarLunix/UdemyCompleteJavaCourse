@@ -8,3 +8,48 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY org.eclipse.core.net 1 0 2017-05-04 15:36:03.558
 !MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2018-01-18 15:43:15.315 -----------------------------------------------
+eclipse.buildId=M20100909-0800
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/ryan651/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/ryan651/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2018-01-18 15:43:56.842
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.epp.usagedata.recording 1 0 2018-01-18 15:44:16.464
+!MESSAGE Usage data upload to http://udc.eclipse.org/upload.php failed with error code 302.
+
+!ENTRY org.eclipse.jdt.launching 4 105 2018-01-18 15:45:24.039
+!MESSAGE The specified JRE installation does not exist
+
+!ENTRY org.eclipse.jdt.launching 4 105 2018-01-18 15:57:05.078
+!MESSAGE The specified JRE installation does not exist
+!SESSION 2018-01-18 16:16:34.388 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 1 1 2018-01-18 16:17:10.514
+!MESSAGE Workbench migration started
+
+!ENTRY org.eclipse.core.net 1 0 2018-01-18 16:17:11.321
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.ui 1 1 2018-01-18 16:17:13.697
+!MESSAGE Workbench migration finished
+!SESSION 2018-01-22 15:40:37.696 -----------------------------------------------
+eclipse.buildId=M20100909-0800
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/ryan651/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/ryan651/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2018-01-22 15:40:57.511
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences

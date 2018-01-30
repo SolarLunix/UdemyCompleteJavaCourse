@@ -1,4 +1,4 @@
-#Wed May 10 22:39:19 IST 2017
+#Mon Jan 22 15:40:53 GMT+00:00 2018
 content_assist_proposals_foreground=0,0,0
 spelling_locale_initialized=true
 content_assist_disabled_computers=org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000
@@ -13,7 +13,7 @@ org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UT
 org.eclipse.jdt.ui.javadoclocations.migrated=true
 proposalOrderMigrated=true
 content_assist_proposals_background=255,255,255
-org.eclipse.jdt.ui.formatterprofiles.version=11
+org.eclipse.jdt.ui.formatterprofiles.version=13
 org.eclipse.jdt.internal.ui.navigator.layout=2
 content_assist_number_of_computers=19
 useQuickDiffPrefPage=true
